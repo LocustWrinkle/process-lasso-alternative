@@ -1,0 +1,5 @@
+repository:
+  name: process-lasso-alternative
+  description: "Three-word profiles: Game, Normal, Quiet. Priority and power plans flip when you launch a game and revert when you close it."
+  topics: process-priority, gaming, performance, automation, windows, free, utility
+  has_wiki: false
