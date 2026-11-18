@@ -113,3 +113,7 @@ Screens show the marks of Discord, Steam, Spotify, Google Chrome, NVIDIA, Epic G
 **Description:** Simple Process Lasso alternative for gaming PCs: mark apps Game, Normal or Quiet. Priority, core affinity and background limits done for you, plus a log of who caused each stutter.
 
 **Topics:** process-manager, process-lasso, cpu-priority, cpu-affinity, game-booster, stutter, frame-time, windows
+
+---
+
+Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
